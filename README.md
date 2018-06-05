@@ -5,7 +5,7 @@
 
 1. ```git init``` permet de d'initialiser un projet git .
 2. ```git status``` permet d'afficher l'état de d'un projet.
-  * ex: les fichers modifiés, supprimer ou à ajouter.
+	* ex: les fichers modifiés, supprimer ou à ajouter.
 3. ```git add``` permet d'ajouter un ficher.
 4. ```git checkout``` permet de pointer soit un commit, soit un HEAD du 
 projet.
