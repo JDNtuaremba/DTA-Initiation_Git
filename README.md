@@ -3,15 +3,17 @@
 
 ### Voici quelques commande qui pourront vous sauver la vie sur Git :+1
 
-*1 ```git init``` permet de d'initialiser un projet git .
-*2 ```git status``` permet d'afficher l'état de d'un projet.
+1. ```git init``` permet de d'initialiser un projet git .
+2. ```git status``` permet d'afficher l'état de d'un projet.
   * ex: les fichers modifiés, supprimer ou à ajouter.
-*3 ```git add``` permet d'ajouter un ficher.
-*4 ```git checkout``` permet de pointer soit un commit, soit un HEAD du 
+3. ```git add``` permet d'ajouter un ficher.
+4. ```git checkout``` permet de pointer soit un commit, soit un HEAD du 
 projet.
-*5 ```git merge``` permet de fusionner deux branche entre elle.
+5. ```git merge``` permet de fusionner deux branche entre elle.
 
-*6 ```git help``` permet d'afficher les informations sur l'usage de Git.
+6. ```git help``` permet d'afficher les informations sur l'usage de Git.
+
+Pour plus d'information, consultez la documentation Git : [Git doc](https://git-scm.com/doc) :sparkles
 
 Comme disait l'un de mes professeurs
 >N'oubliez pas de commiter !
