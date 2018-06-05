@@ -12,6 +12,8 @@ projet.
 5. ```git merge``` permet de fusionner deux branche entre elle.
 
 6. ```git help``` permet d'afficher les informations sur l'usage de Git.
+7. ```git bisect``` cherche de manière binaire dans quel commit le bug 
+est apparu.
 
 Pour plus d'information, consultez la documentation Git : [https://git-scm.com/doc](https://git-scm.com/doc) :sparkles:
 
